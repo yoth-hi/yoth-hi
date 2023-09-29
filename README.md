@@ -1,16 +1,25 @@
-### Hi there 👋
+ Bem-vindo ao meu perfil! Sou Erick, um apaixonado desenvolvedor de software e o orgulhoso criador do projeto Yoth.
 
-<!--
-**yoth-hi/yoth-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim:
+- 👨‍💻 Desenvolvedor Full-Stack
+- 🌍 Amante da tecnologia e do código aberto
+- 🎯 Focado em criar soluções impactantes
 
-Here are some ideas to get you started:
+## 🌟 Sobre o Yoth:
+- 🌐 Yoth é o meu projeto principal, onde trabalho arduamente para criar algo incrível.
+- 🚀 Um espaço para inovação, criatividade e colaboração.
+- 💡 Interessado em contribuir ou saber mais sobre o Yoth? Fique à vontade para entrar em contato.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Principais Habilidades:
+- 💻 Linguagens: JavaScript, Python, HTML/CSS
+- 🛠️ Ferramentas: React, Node.js, Git
+- 🌐 Desenvolvimento Web: Frontend e Backend
+
+## 🤝 Vamos Conectar:
+- 📫 Email: none
+- 💼 LinkedIn: none
+- 🌐 Site: --ainda no a host
+
+# 👨‍🔬 Estou sempre em busca de desafios emocionantes e novas oportunidades de colaboração. Vamos construir algo incrível juntos!
+
+Happy coding! 😄
