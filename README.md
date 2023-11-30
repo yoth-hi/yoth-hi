@@ -18,7 +18,7 @@
 ## 🤝 Vamos Conectar:
 - 📫 Email: none
 - 💼 LinkedIn: none
-- 🌐 Site: --ainda no a host
+- 🌐 Site: https://yoth-hi.vercel.app
 
 ### 👨‍🔬 Estou sempre em busca de desafios emocionantes e novas oportunidades de colaboração. Vamos construir algo incrível juntos!
 
