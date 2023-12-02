@@ -6,7 +6,7 @@
 - 🎯 Focado em criar soluções impactantes
 
 ## 🌟 Sobre o Yoth:
-- 🌐 Yoth é o meu projeto principal, onde trabalho arduamente para criar algo incrível.
+- 🌐 Yoth é o meu projeto principal, onde trabalho artuamente para criar algo incrível.
 - 🚀 Um espaço para inovação, criatividade e colaboração.
 - 💡 Interessado em contribuir ou saber mais sobre o Yoth? Fique à vontade para entrar em contato.
 
