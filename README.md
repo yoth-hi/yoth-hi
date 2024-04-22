@@ -1,4 +1,4 @@
-- # Bem-vindo ao meu perfil! Sou Erick, um apaixonado desenvolvedor de software e o orgulhoso criador do projeto Yoth.
+# Bem-vindo ao meu perfil! Sou Erick, um apaixonado desenvolvedor de software e o orgulhoso criador do projeto Yoth.
 
 ## 🚀 Sobre Mim:
 - 👨‍💻 Desenvolvedor Full-Stack
@@ -16,7 +16,7 @@
 - 🌐 Desenvolvimento Web: Frontend e Backend
 
 ## 🤝 Vamos Conectar:
-- 📫 Email: none
+- 📫 Email: yothservice@gmail.com
 - 💼 LinkedIn: none
 - 🌐 Site: https://yoth-hi.vercel.app
 
