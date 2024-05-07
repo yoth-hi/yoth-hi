@@ -18,7 +18,7 @@
 ## 🤝 Vamos Conectar:
 - 📫 Email: yothservice@gmail.com
 - 💼 LinkedIn: none
-- 🌐 Site: https://yoth-hi.vercel.app
+- 🌐 Site: https://yoth-py.vercel.app
 
 ### 👨‍🔬 Estou sempre em busca de desafios emocionantes e novas oportunidades de colaboração. Vamos construir algo incrível juntos!
 
